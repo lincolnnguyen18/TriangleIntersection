@@ -1,3 +1,5 @@
+Live demo available [here](https://lincolnnguyen18.github.io) (for now)
+
 # Demo
 
 <img src="https://github.com/lincolnnguyen18/TriangleIntersection/blob/master/Demo.gif?raw=true" />
